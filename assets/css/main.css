@@ -790,7 +790,7 @@ input, select, textarea {
 
 		input[type="checkbox"].color3 + label:before,
 		input[type="radio"].color3 + label:before {
-			color: #ffe4b4;
+			color: #565656;
 		}
 
 		input[type="checkbox"].color4 + label:before,
@@ -1384,7 +1384,7 @@ input, select, textarea {
 		}
 
 		ul.contact-icons.color3 > li:before {
-			color: #ffe4b4;
+			color: #565656;
 		}
 
 		ul.contact-icons.color4 > li:before {
@@ -1622,7 +1622,7 @@ input, select, textarea {
 			input[type="button"].primary.color1,
 			button.primary.color1,
 			.button.primary.color1 {
-				color: #726193 !important;
+				color: #76323F !important;
 			}
 
 			input[type="submit"].primary.color2,
@@ -1630,7 +1630,7 @@ input, select, textarea {
 			input[type="button"].primary.color2,
 			button.primary.color2,
 			.button.primary.color2 {
-				color: #e37b7c !important;
+				color: #C09F80 !important;
 			}
 
 			input[type="submit"].primary.color3,
@@ -1638,7 +1638,7 @@ input, select, textarea {
 			input[type="button"].primary.color3,
 			button.primary.color3,
 			.button.primary.color3 {
-				color: #ffe4b4 !important;
+				color: #565656 !important;
 			}
 
 			input[type="submit"].primary.color4,
@@ -2230,9 +2230,11 @@ input, select, textarea {
 			}
 
 			.panel > *.color1-alt {
+				/*
 				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.175) 25%, rgba(227, 123, 124, 0.175) 50%, rgba(255, 228, 180, 0.175));
+				*/
 				background-size: 128px 128px, auto;
-				background-color: #6c5e86;
+				background-color: #76323F;
 			}
 
 			.panel > *.color2-alt {
@@ -2727,7 +2729,9 @@ input, select, textarea {
 		}
 
 		.panel.color1 {
+			/*
 			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+			*/
 			background-size: 128px 128px, auto;
 			background-color: #76323F;
 			/*
@@ -2765,9 +2769,11 @@ input, select, textarea {
 		}
 
 		.panel.color1-alt {
+			/*
 			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.175) 25%, rgba(227, 123, 124, 0.175) 50%, rgba(255, 228, 180, 0.175));
+			*/
 			background-size: 128px 128px, auto;
-			background-color: #6c5e86;
+			background-color: #76323F;
 		}
 
 		.panel.color2-alt {
@@ -2779,7 +2785,9 @@ input, select, textarea {
 		}
 
 		.panel.color3-alt {
+			/*
 			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.175) 25%, rgba(227, 123, 124, 0.175) 50%, rgba(255, 228, 180, 0.175));
+			*/
 			background-size: 128px 128px, auto;
 			background-color: #565656;
 		}
@@ -2801,7 +2809,9 @@ input, select, textarea {
 		}
 
 			.panel > *.color1 {
+				/*
 				background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+				*/
 				background-size: 128px 128px, auto;
 				background-color: #76323F;
 			}
@@ -2829,9 +2839,11 @@ input, select, textarea {
 			}
 
 			.panel > *.color1-alt {
+				/*
 				background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.175) 25%, rgba(227, 123, 124, 0.175) 50%, rgba(255, 228, 180, 0.175));
+				*/
 				background-size: 128px 128px, auto;
-				background-color: #6c5e86;
+				background-color: #76323F;
 			}
 
 			.panel > *.color2-alt {
@@ -2847,7 +2859,7 @@ input, select, textarea {
 				background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.175) 25%, rgba(227, 123, 124, 0.175) 50%, rgba(255, 228, 180, 0.175));
 				*/
 				background-size: 128px 128px, auto;
-				background-color: #fedea6;
+				background-color: #565656;
 			}
 
 			.panel > *.color4-alt {
@@ -3236,7 +3248,8 @@ input, select, textarea {
 				}
 
 			.panel.color1 {
-				background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+				/*background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+				*/
 				background-size: 128px 128px, auto;
 				background-color: #76323F;
 			}
@@ -3257,7 +3270,7 @@ input, select, textarea {
 				background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
 				*/
 				background-size: 128px 128px, auto;
-				background-color: #ffe4b4;
+				background-color: #565656;
 			}
 
 			.panel.color4 {
@@ -3267,9 +3280,11 @@ input, select, textarea {
 			}
 
 			.panel.color1-alt {
+				/*
 				background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.175) 25%, rgba(227, 123, 124, 0.175) 50%, rgba(255, 228, 180, 0.175));
+				*/
 				background-size: 128px 128px, auto;
-				background-color: #6c5e86;
+				background-color: #76323F;
 			}
 
 			.panel.color2-alt {
@@ -3285,7 +3300,7 @@ input, select, textarea {
 				background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.175) 25%, rgba(227, 123, 124, 0.175) 50%, rgba(255, 228, 180, 0.175));
 				*/
 				background-size: 128px 128px, auto;
-				background-color: #fedea6;
+				background-color: #565656;
 			}
 
 			.panel.color4-alt {
